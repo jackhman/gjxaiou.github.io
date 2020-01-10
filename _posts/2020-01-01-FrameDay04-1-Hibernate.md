@@ -29,7 +29,7 @@ Hibernate查询操作
 - dao层：Hibernate、MyBatis 框架
 （1）对数据库进行 CRUD 操作
 
-![JavaEE三层架构](2020-01-01FrameDay04_1-Hibernate.resource/JavaEE%E4%B8%89%E5%B1%82%E6%9E%B6%E6%9E%84.png)
+![JavaEE三层架构](2020-01-01-FrameDay04-1-Hibernate.resource/JavaEE%E4%B8%89%E5%B1%82%E6%9E%B6%E6%9E%84.png)
 
 ## 二、Hibernate 概述
 
