@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      FrameDay04-1 Hibernate
+title:      FrameDay04_1 Hibernate
 subtitle:   Hibernate 基础
 date:       2018-06-05
 author:     BY
@@ -11,7 +11,7 @@ tags:
 	- WEB 框架
 ---
 
-# FrameDay04_1 Hibernate
+# FrameDay04-1 Hibernate
 
 ## Hibernate 整体规划
 
