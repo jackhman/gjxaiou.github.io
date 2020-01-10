@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      5分钟带你看完 WWDC 2018
-subtitle:   WWDC 2018 Keynote 全记录
+title:      FrameDay04_1 Hibernate
+subtitle:   Hibernate 基础
 date:       2018-06-05
 author:     BY
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - iOS
+    - Hibernate
+	- WEB 框架
 ---
 
 # FrameDay04_1 Hibernate
