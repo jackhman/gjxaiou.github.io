@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Hello
-subtitle: Hello
+post-title:      Hello
+post-subtitle: Hello demo
 date: 2010-01-01
 header-img: img/post-bg-ios10.jpg
 catalog: true
