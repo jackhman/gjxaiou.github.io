@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Hello World
+layout:     post
+title:      Hello
 subtitle: Hello
 date: 2010-01-01
 header-img: img/post-bg-ios10.jpg
