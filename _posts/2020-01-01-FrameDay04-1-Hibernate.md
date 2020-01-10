@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      FrameDay04_1 Hibernate
+title:      FrameDay04-1 Hibernate
 subtitle:   Hibernate 基础
 date:       2018-06-05
 author:     BY
