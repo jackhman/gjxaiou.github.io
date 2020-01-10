@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      FrameDay04_1 Hibernate
+title:      FrameDay04 1 Hibernate
 subtitle:   Hibernate 基础
-date:       2018-06-05
+date:       2021-06-05
 author:     BY
 header-img: img/post-bg-cook.jpg
 catalog: true
@@ -11,7 +11,7 @@ tags:
 	- WEB 框架
 ---
 
-# FrameDay04-1 Hibernate
+# FrameDay04_1 Hibernate
 
 ## Hibernate 整体规划
 
