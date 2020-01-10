@@ -1,13 +1,13 @@
 ---
 layout:     post
-post-title:      Hello
-post-subtitle: Hello demo
-date: 2010-01-01
-header-img: img/post-bg-ios10.jpg
+title:      5分钟带你看见 WWDC 2018
+subtitle:   WWDC 2018 Keynote 全记录
+date:       2018-06-05
+author:     GJXAIOU
+header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-	- 框架
-	- hibernate
+    - iOS
 ---
 
 # hello
