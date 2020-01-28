@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      FrameDay04_1 Hibernate
-subtitle:   WWDC 2018 Keynote 全记录
+subtitle:   Hibernate 博客
 date:       2018-06-05
 author:     GJXAIOU
 header-img: img/post-bg-cook.jpg
